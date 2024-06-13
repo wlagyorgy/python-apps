@@ -21,6 +21,7 @@ close_button = sg.Button("Exit")
 complete_button = sg.Button("Complete")
 app_title = "My ToDo app"
 
+
 layout = [[clock], [label], [input_box, add_button], [list_box, edit_button,complete_button], [close_button]]
 window = sg.Window(app_title,
                    layout=layout,
