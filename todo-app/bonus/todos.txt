@@ -9,3 +9,6 @@ asd
 Improve the app
 Hello world
 Hello bello
+clean the bag
+Get paper
+Fix the bag
