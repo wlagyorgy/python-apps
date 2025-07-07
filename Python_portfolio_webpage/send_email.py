@@ -26,7 +26,7 @@ for article in content["articles"][:20]:
 
 def send_email(message):
     host = "smtp.gmail.com"
-    port = 456
+    port = 465
 
     username = "don.georgleone@gmail.com"
     password = os.getenv("PASSWORD")
